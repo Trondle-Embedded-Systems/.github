@@ -33,7 +33,7 @@ We believe in:
 
 ## 📫 Contact
 Have a question, suggestion, or potential collaboration?  
-Reach out via GitHub Issues or email: **[hello@trondle.ch]**
+Reach out via GitHub Issues or email: **[nicolas.trondle@gmail.com]**
 
 ---
 
