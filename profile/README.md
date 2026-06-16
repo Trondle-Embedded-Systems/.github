@@ -6,7 +6,6 @@ Welcome to the official GitHub organisation for **Tröndle Embedded Systems (TES
 We design, develop, and document high-quality embedded hardware and firmware — from concept to production.<br/> 
 
 [Our Webiste](https://manual.tes-shop.ch/fr/).
-// [Our Discord server](https://discord.gg/XVt4zDmAsj)
 
 ---
 
